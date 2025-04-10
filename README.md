@@ -27,5 +27,4 @@ I have been working as a Devops engineer for 20 years and have gained experience
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pheelee"><img src="https://github-readme-stats-steel-ten-62.vercel.app
-/api?username=pheelee&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="pheelee's GitHub stats" /></a>
+<a href="http://www.github.com/pheelee"><img src="https://github-readme-stats-steel-ten-62.vercel.app/api?username=pheelee&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="pheelee's GitHub stats" /></a>
